@@ -1,6 +1,6 @@
 # DataSprintTest
 In this projest we worked with NYC Taxi Trips database. Taxi Trips data in New York City were devided seperately for each year from 2009 to 2012.
-this data was accompanied with Vendor Lookup: Taxi Service Company Data  and Payment Lookup:Map between prefixes and actual payment types.
+this data was accompanied with Vendor Lookup: Taxi Service Company Data  and Payment Lookup: Map between prefixes and actual payment types.
 
 the columns are :
 
